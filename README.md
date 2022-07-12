@@ -1,4 +1,4 @@
-# Seafoam [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Seafoam%20color%20scheme%20for%20Sublime%20Text!%20Free%20to%20port%20to%20other%20platforms.%20%23themes&url=https%3A%2F%2Fgithub.com%2Fitjustwerk%2FSeafoam%2F)
+# Seafoam [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Seafoam%20color%20scheme%20for%20Sublime%20Text!%20Free%20to%20port%20to%20other%20platforms.%20%23themes&url=https%3A%2F%2Fgithub.com%2Fitjustwerk%2FSeafoam%2F)  ![GitHub last commit](https://img.shields.io/github/last-commit/itjustwerk/Seafoam)
 Low contrast Seafoam themed color scheme for Sublime Text 3 &amp; 4.
 <img src="seafoam_ss1.jpg">
 <img src="seafoam_ss2.jpg">
